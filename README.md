@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # IS-Courses
 Kaixian Information Since
 =======
