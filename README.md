@@ -1,12 +1,12 @@
 # IS-Courses
 Kaixian Information Since
 =======
-# Kaixian-IS-Courses
+# Kaixian-IS-Coursess
 Kaixian Information Science Course. 
 
-Kaixian-IS-Courses目前是一个旨在借助开县信息技术教师及爱好者之力，通过web方式构建学生自主学习的平台，从而推动开县教育信息化及信息技术课程改革的项目。
+Kaixian-IS-Coursess目前是一个旨在借助开县信息技术教师及爱好者之力，通过web方式构建学生自主学习的平台，从而推动开县教育信息化及信息技术课程改革的项目。
 
-你可以访问[Kaixian-IS-Courses](http://www.kxjx.cn/kxisc)查看我们的公共服务版本。
+你可以访问[Kaixian-IS-Coursess](http://www.kxjx.cn/kxisc)查看我们的公共服务版本。
 
 ##安装及使用
 解压到服务器上，http://path_to_root/index.html
