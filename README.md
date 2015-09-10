@@ -20,9 +20,9 @@ xxxxx表示课题名称缩写，尽量做到唯一，避免和他人重复
 
 >子课题(U1C1-XXXX)/
 >
->    index.html
+    index.html
 >    
->    assets/
+    assets/
 >
         imgs/
             pic1.jpg
