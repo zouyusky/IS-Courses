@@ -20,6 +20,7 @@ xxxxx表示课题名称缩写，尽量做到唯一，避免和他人重复
 
 子课题(U1C1-XXXX)/
     index.html
+<<<<<<< HEAD
     assets/
         imgs/
             pic1.jpg
@@ -30,6 +31,29 @@ xxxxx表示课题名称缩写，尽量做到唯一，避免和他人重复
             main.css
     index.html
     introduction.html
+=======
+
+    assets/
+
+        imgs/
+
+            pic1.jpg
+
+            ...
+
+        js/
+
+            main.js
+
+        css/
+
+            main.css
+
+    index.html
+
+    introduction.html
+
+>>>>>>> feature/C0
     ...
         
         
